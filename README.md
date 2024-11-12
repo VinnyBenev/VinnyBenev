@@ -8,7 +8,7 @@
   <h1>Olá, meu nome é Vinicius</h1>
    ✅ Um jovem que está aprendendo programação front-end e back-end<br>
    ✅ Busco sempre aprender e dar meu máximo em projetos<br>
-   ✅ Atualmente cursando Ensino Técnico de Informática p/Internet em FIEC-Indaiatuba<br>
+   ✅ Atualmente cursando Ensino Superior em Ciência da Computação no Instituto Federal de São Paulo<br>
    ✅ Conhecimentos avançados em back-end<br>
    ✅ Entendimento intermediário sobre front-end e alguns frameworks, bem como a manipulação com banco de dados<br>
 </div>
